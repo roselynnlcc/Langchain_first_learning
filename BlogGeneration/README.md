@@ -7,7 +7,7 @@ Users can input a topic, specify the number of words, and choose an audience sty
 Regarding the set up of environment, please refer to Krish Naik's video titled [End to End LLM Project Using LLAMA 2](https://www.youtube.com/watch?v=cMJWC-csdK4&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&index=9)
 
 ## Installation of dependencies
-`pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Run the App
 `streamlit run app.py`
