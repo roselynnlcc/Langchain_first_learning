@@ -20,4 +20,4 @@ You can find the model here: [Llama 2 Model](https://huggingface.co/TheBloke/Lla
 
 ## Screenshot of Generated Text
 
-![Screenshot of LLM Output](images/screenshot.png)
+![Screenshot of LLM Output](images/Screenshot.png)
