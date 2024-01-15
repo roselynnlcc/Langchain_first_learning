@@ -16,7 +16,7 @@ To run Celebrity Search, you need to have Python installed on your system. Follo
 
 3. **Set Up OpenAI API Key**
 - Obtain an API key from OpenAI.
-- Create a file named `constants.py` and add the following line:
+- Create a file named `env_constants.py` and add the following line:
   ```python
   openai_key = 'your-openai-api-key'
   ```

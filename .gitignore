@@ -2,6 +2,7 @@ BlogGeneration/models/
 BlogGeneration/venv/
 CelebritySearch/myenv
 CelebritySearch/constants.py
+CelebritySearch/env_constants.py
 PromptEngineering/venv
 Chatbot/venv
 Chatbot/.env

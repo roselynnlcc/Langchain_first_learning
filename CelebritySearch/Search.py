@@ -1,5 +1,5 @@
 ## Integrated our code with OpenAI API
-from constants import openai_key
+from env_constants import openai_key
 from langchain_openai import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
