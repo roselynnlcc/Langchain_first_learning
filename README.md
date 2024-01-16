@@ -9,3 +9,6 @@ Celebrity Search is an interactive web application built with Streamlit and inte
 
 ## Chatbot
 This Chatbot project is divided into two main parts: a Streamlit web application and a Jupyter Notebook demonstration. The project utilizes the Langchain OpenAI library to create a responsive and interactive Q&A chatbot.
+
+The Streamlit web application is deployed on Hugging Face Spaces. You can interact with the live application here: [Langchain QA Chatbot](https://huggingface.co/spaces/roselynnlcc/Langchain_QA_Chatbot).
+
